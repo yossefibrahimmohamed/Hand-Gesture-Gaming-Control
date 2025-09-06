@@ -1,6 +1,5 @@
 # 🎮 Hand Gesture Gaming Control
-
-![Python]<img width="1504" height="941" alt="image" src="https://github.com/user-attachments/assets/1ce3cd51-95e4-4b38-b8a9-a434bbcc1bcf" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/1ce3cd51-95e4-4b38-b8a9-a434bbcc1bcf" />
 
 **Transform your webcam into a contactless gaming controller using AI-powered hand gesture recognition.**
 
