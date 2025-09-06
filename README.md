@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🐛 **Bug Reports**: [Issues Page](https://github.com/yourusername/hand-gesture-gaming-control/issues)
 - 💡 **Feature Requests**: [Discussions](https://github.com/yourusername/hand-gesture-gaming-control/discussions)
-- 📧 **Contact**: your.email@example.com
+- 📧 **Contact**: yossefmohamedsalah2001@gmail.com
 
 ## 🚀 Future Roadmap
 
